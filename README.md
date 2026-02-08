@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ahmad Khalaf 👋
 
-<!--
-**Ahmad-khalaf517/Ahmad-khalaf517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 5+ years of experience building scalable web and desktop applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- TailwindCSS
+
+**Backend**
+- NestJS
+- REST APIs
+- PostgreSQL
+- MySQL
+
+**Desktop Applications**
+- Electron.js
+- Secure IPC Architecture
+- Cross-platform builds (Windows, macOS, Linux)
+
+## 🏗 What I Build
+
+- Scalable SaaS platforms
+- Secure REST APIs
+- Cross-platform desktop applications
+- Performance-optimized web systems
+
+## ⚙️ Engineering Focus
+
+- Clean Architecture
+- API design & database modeling
+- Security best practices (context isolation, safe IPC)
+- CI/CD with GitHub Actions
+- Agile development
+
+## 📫 Contact
+
+📧 AhmadKhalaf517@gmail.com  
+📍 Lebanon
