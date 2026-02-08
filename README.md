@@ -76,8 +76,8 @@ I focus on writing code that remains understandable and extensible as products g
 ---
 
 ## 📊 GitHub Activity
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad-khalaf517&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-khalaf517&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
