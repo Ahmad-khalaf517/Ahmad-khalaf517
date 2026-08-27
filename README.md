@@ -39,41 +39,23 @@ I work across the whole request path — NestJS services and REST APIs, PostgreS
 
 ---
 
-## 🚀 Core Stack
+## 🗂 Featured Projects
 
-### Backend &amp; APIs
-- NestJS — modules, controllers, services
-- Node.js / Express.js
-- REST API design
-- JWT authentication, guards &amp; role-based access
-- Validation pipes &amp; DTOs
-- WebSockets (Socket.IO)
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Lobby](https://github.com/Ahmad-khalaf517/lobby)** | Link-to-join chat, voice and screen-share. Guests join temporary rooms that expire automatically; registered users keep a persistent identity. | NestJS · Angular · PostgreSQL · Supabase · LiveKit · Docker |
+| **[SRMS](https://github.com/Ahmad-khalaf517/SRMS)** | Role-based restaurant management system — POS ordering, kitchen workflow, menu management, analytics and admin monitoring. | Full-stack TypeScript monorepo |
+| **[AuthFlow](https://github.com/Ahmad-khalaf517/AuthFlow)** | Production-style authentication and user management REST API, with JWT bearer auth. | FastAPI · Python · JWT · Docker |
+| **[CashLog-WEB](https://github.com/Ahmad-khalaf517/CashLog-WEB)** | REST API for tracking cash flow — incomes, expenses and categories. | TypeScript · Express |
+| **[Checkout-Flow](https://github.com/Ahmad-khalaf517/Checkout-Flow)** | Multi-step checkout experience — address, payment, review, success and error states. | React · TypeScript · Zustand · React Hook Form · Zod |
 
-### Databases
-- PostgreSQL — relational modeling &amp; migrations
-- Prisma ORM
-- MongoDB / MySQL
-- Supabase
+In every project:
 
-### Frameworks
-- React 18+
-- Next.js (App Router)
-- TypeScript (Strict Mode)
-
-### State Management
-- React Query (TanStack Query) — Server State
-- Zustand — Lightweight Global State
-- Redux Toolkit — Enterprise-scale applications
-
-### Forms &amp; Validation
-- React Hook Form
-- Zod schema validation
-
-### UI &amp; Styling
-- TailwindCSS
-- shadcn/ui
-- MUI
-- Responsive &amp; Accessible Design
+- Loading &amp; error states
+- API caching strategy
+- Validation layer — client **and** server
+- Scalable state boundaries
+- Performance optimization
 
 ---
 
@@ -103,21 +85,30 @@ Frontend is not just UI — it is system design. The same is true of the API beh
 
 ---
 
-## 🖥 What I Build
+## 🚀 Tools I Reach For, and Why
 
-- SaaS Dashboards
-- Admin Panels
-- Data-driven Platforms
-- Form-heavy Systems
-- Enterprise UI applications
-- Real-time features — chat, live updates, presence
+**Backend &amp; APIs**
+- NestJS — modules, controllers and services with clear boundaries
+- REST API design with JWT auth, guards and role-based access
+- Validation pipes &amp; DTOs, so bad input never reaches the service layer
+- WebSockets (Socket.IO) for real-time features
 
-Every project includes:
-- Loading &amp; error states
-- API caching strategy
-- Validation layer — client **and** server
-- Scalable state boundaries
-- Performance optimization
+**Data**
+- PostgreSQL — relational modeling and migrations
+- Prisma ORM — schema-first and type-safe end to end
+- MongoDB · MySQL · Supabase
+
+**State Management**
+- React Query (TanStack Query) — server state
+- Zustand — lightweight global state
+- Redux Toolkit — enterprise-scale applications
+
+**Forms &amp; Validation**
+- React Hook Form with Zod — one schema, typed from input to API
+
+**UI &amp; Styling**
+- TailwindCSS · shadcn/ui · MUI
+- Responsive and accessible by default
 
 ---
 
@@ -157,8 +148,8 @@ I focus on writing code that remains understandable and extensible as products g
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-📍 Lebanon  
-📧 AhmadKhalaf517@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmad-y-khalaf) · [Portfolio](https://ahmad-khalaf-portfolio.vercel.app)
+📍 Lebanon &nbsp;·&nbsp; 📧 [AhmadKhalaf517@gmail.com](mailto:AhmadKhalaf517@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/ahmad-y-khalaf) &nbsp;·&nbsp; 🌐 [Portfolio](https://ahmad-khalaf-portfolio.vercel.app)
+
+</div>
