@@ -43,6 +43,7 @@ I work across the whole request path — NestJS services and REST APIs, PostgreS
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
+| **[BillBoard Hub](https://github.com/Ahmad-khalaf517/BillBoard-Hub)** | Full-stack billboard marketplace — public catalog, advertiser reservations with conflict checks, creative moderation, digital-screen playlists and impression analytics. | Next.js 16 · React 19 · TypeScript · MongoDB · Stripe · Auth.js |
 | **[Lobby](https://github.com/Ahmad-khalaf517/lobby)** | Link-to-join chat, voice and screen-share. Guests join temporary rooms that expire automatically; registered users keep a persistent identity. | NestJS · Angular · PostgreSQL · Supabase · LiveKit · Docker |
 | **[SRMS](https://github.com/Ahmad-khalaf517/SRMS)** | Role-based restaurant management system — POS ordering, kitchen workflow, menu management, analytics and admin monitoring. | Full-stack TypeScript monorepo |
 | **[AuthFlow](https://github.com/Ahmad-khalaf517/AuthFlow)** | Production-style authentication and user management REST API, with JWT bearer auth. | FastAPI · Python · JWT · Docker |
